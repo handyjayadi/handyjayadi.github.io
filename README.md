@@ -1,1 +1,2 @@
 # handyjayadi.github.io
+lorem
